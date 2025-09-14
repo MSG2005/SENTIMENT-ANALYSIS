@@ -1,18 +1,4 @@
-# SENTIMENT-ANALYSIS-USING-MACHINE-LEARNING
-
-*COMPANY* : CODTECH IT SOLUTIONS
-
-*NAME* : GUDIPALLI MOHAN SAI
-
-*INTERN ID* : CT12WQVW
-
-*DOMAIN* : DATA ANALYSIS
-
-*DURATION* : 12 WEEKS
-
-*MENTOR* : NEELA SANTOSH
-
-# **Sentiment Analysis on Product Reviews**
+# **Sentiment Analysis on Product Reviews - Machine Learning**
 
 ## **Project Overview**
 This project performs **sentiment analysis** on product reviews using **TextBlob**. It classifies customer feedback as **positive, neutral, or negative** based on the text's polarity. The analysis includes data preprocessing, sentiment classification, and interactive visualizations.
